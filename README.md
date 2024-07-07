@@ -12,7 +12,8 @@
    ![image](https://github.com/ushareng/SciQSnowflake/assets/34335028/03d8e621-05b7-482a-9a60-3e0f17d893d4)
 
 4. Name the Columns are Question and Answer
-5. Create a Streamlit Notebook and run the app.py
+5. Run the queries in train.sql file and wait till Progress is 1
+6. Create a Streamlit Notebook and run the app.py
    
 Refer to the following blog for more info - https://usharengaraju.medium.com/harnessing-the-power-of-snowflake-cortex-ai-for-training-large-language-models-976300ecbf14
 
