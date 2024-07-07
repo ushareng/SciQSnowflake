@@ -1,4 +1,5 @@
 # SciQSnowflake
+In the rapidly evolving landscape of artificial intelligence, training large language models (LLMs) has become a cornerstone for advancing natural language processing capabilities. Snowflake Cortex AI offers a robust and scalable platform to facilitate this complex process. In this blog, we’ll explore how to leverage Snowflake Cortex AI to train LLMs efficiently and effectively. From data ingestion and preprocessing to model training and deployment, we’ll walk you through each step, highlighting best practices and innovative techniques that can help you harness the full potential of this powerful tool. Whether you’re an AI enthusiast, a data scientist, or a business looking to integrate cutting-edge AI solutions, this guide will provide valuable insights into the transformative capabilities of Snowflake Cortex AI.
 
 ## Pre-requisites
 1. Create an Account in US West 2 (Oregon)
